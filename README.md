@@ -40,10 +40,28 @@ This project provides pet owners with **convenience, reliability, and peace of m
 ---
 
 ## Collaborators
-- **[@tAwFiK2005](https://github.com/tAwFiK2005)** – Project Lead, Documentation and repository maintenance  
-- **[@ahmedayman2825](https://github.com/ahmedayman2825)** – Hardware setup, wiring, and testing  
-- **[@ashrafeesa](https://github.com/ashrafeesa)** – Flutter application 
-- **[@ahmedabdalwahab](https://github.com/ahmedabdalwahab)** – ESP32 programming, system integration, Sensor calibration, load cell & water level system
-- **[@hazemsaeedkamel](https://github.com/hazemsaeedkamel)** – Data Flow & Data Integration
+**Ahmed Ayman** – Hardware setup, wiring, and testing  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-ahmed-ayman/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmedayman2825)
+
+**Ahmed Tawfik** – Project Lead, Documentation and repository maintenance  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ah-mo-tawfik/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tAwFiK2005)
+
+**Ashraf Khamis** – Flutter application 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraf-k-eesa-b8b8802b4)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashrafeesa)
+
+**Ahmed Abdelwahab** – ESP32 programming, system integration, Sensor calibration, load cell & water level system
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdalwahab/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmedabdalwahab)
+
+**Hazem Saeed** – Data Flow & Data Integration
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hazemsaeedkamel) 
 
 ---
